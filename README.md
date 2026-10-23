@@ -24,6 +24,14 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/eErieKarasu/fin_stmts_parse-public">fin_stmts_parse-public ↗</a></h3>
+      <p><b>把财务报表变成可校验的结构化数据。</b></p>
+      <p>解析 PDF、图片与 Excel 财报，识别资产负债表、利润表和现金流量表，完成标准科目映射与勾稽校验，并通过 MCP 和 gRPC 提供服务。</p>
+      <p><sub>Python · OCR / LLM · YAML 规则 · MCP · gRPC</sub></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/eErieKarasu/ReportTeam">ReportTeam ↗</a></h3>
       <p><b>从一个问题到一份研究报告。</b></p>
